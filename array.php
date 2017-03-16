@@ -22,7 +22,7 @@
 ?>
 
 <h3>Names in a table</h3>
-<table border="1">
+<table class="table table-striped table-hover">
     <tr>
         <th> First name </th>  <th> Last name </th> 
     </tr>
